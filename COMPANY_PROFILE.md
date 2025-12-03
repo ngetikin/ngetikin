@@ -1,158 +1,176 @@
-## 1. Cover
+✨ NGETIKIN – Digital Web Agency
 
-**NGETIKIN**
+💙 Ngetikin — agensi web yang membantu usaha kecil dan menengah memiliki website profesional dengan cepat, transparan, dan harga terjangkau. Kami memberi kemudahan untuk UMKM/komunitas yang ingin tampil online tanpa repot — dari landing page, company profile, hingga web custom sesuai kebutuhan. Hubungi kami, biar ide digital Anda jadi nyata.
 
-✨ *Make Your App Come True*
+💻 Tentang Kami
 
----
+Awalnya cuma iseng: ada skill coding, ingin membantu teman atau usaha kecil memiliki website. Dari ide itu, lahirlah Ngetikin — bukan perusahaan besar, tetapi tim kecil dengan satu tujuan: membuat website rapi untuk mereka yang membutuhkan tanpa ribet. Jadi, kalau Anda tidak punya tim sendiri tetapi butuh web profesional, kami di sini untuk membantu.
 
-## 2. Tentang Kami
+Atribut	Informasi
+Nama	PT. NGETIKIN SOLUSI WEB
+Tahun Berdiri	2025
+Status	Berbasis online (remote/digital agency)
+🎯 Visi
 
-**Ngetikin** adalah perusahaan rintisan digital yang berdiri pada **13 Agustus 2025** dengan fokus pada pengembangan **aplikasi web** dan solusi teknologi berbasis digital.
+Memberdayakan usaha kecil & menengah serta komunitas lokal agar memiliki kehadiran digital profesional, terjangkau, dan transparan — sehingga setiap ide bisa diwujudkan lewat web tanpa beban tinggi.
 
-Didirikan dengan semangat membangun usaha yang berorientasi pada produk sekaligus membentuk tim yang solid, Ngetikin hadir sebagai wadah untuk menciptakan aplikasi, layanan, serta portofolio berharga yang dapat membuka peluang kerja maupun kolaborasi jangka panjang.
+🚀 Misi
 
-Di tahap awal, Ngetikin menyediakan **jasa pembuatan web aplikasi** — mulai dari company profile, landing page, hingga aplikasi berbasis web tingkat lanjut. Seiring perjalanan, kami juga menargetkan pengembangan **produk SaaS (Software as a Service)**, **vertical software**, serta **template project tingkat lanjut** yang siap mendukung berbagai kebutuhan bisnis dan komunitas.
+Menyediakan layanan pembuatan website (company profile, landing page, sistem sederhana) dengan harga terjangkau dan proses jelas untuk UMKM, komunitas, atau bisnis kecil.
 
-Ngetikin juga terbuka pada eksplorasi **teknologi terbaru** seperti Artificial Intelligence (AI) dan Blockchain untuk memberikan solusi inovatif yang relevan dengan perkembangan zaman.
+Menjamin integritas, kualitas, dan layanan yang jujur — memberi hasil nyata, bukan janji manis.
 
----
+Memberi pelayanan fleksibel dan personal: klien berbicara langsung dengan founder/dev.
 
-## 3. Visi & Misi
+Membantu klien mendapatkan akses digital profesional untuk memperkuat brand dan pertumbuhan usaha.
 
-### 🎯 Visi
+Terbuka terhadap proyek custom dan permintaan spesifik.
 
-Menjadi solusi utama dalam pengembangan aplikasi digital dengan menghadirkan produk dan layanan yang inovatif, bermanfaat, serta berkelanjutan.
+💡 Nilai Inti
 
-### 🚀 Misi
+Integritas · Kualitas · Fleksibilitas · Harga Terjangkau · Komitmen Pribadi
 
-1. Mengembangkan produk inovatif yang relevan dengan kebutuhan bisnis dan komunitas.
-2. Memberikan layanan terbaik dengan standar kualitas tinggi dan komunikasi yang transparan.
-3. Membangun tim yang solid melalui mentoring, pelatihan, dan kolaborasi berkelanjutan.
-4. Menjadikan setiap proyek sebagai peluang untuk menciptakan portofolio yang berharga bagi perusahaan maupun individu.
+Integritas & Kejujuran — tidak overpromise, transparan sejak awal.
 
----
+Kualitas & Profesionalitas — meskipun layanan untuk usaha kecil, hasil tetap rapi dan layak.
 
-## 4. Nilai Utama (Core Values)
+Fleksibilitas & Kemudahan — layanan simpel, proses mudah, komunikasi langsung.
 
-- **Code Together, Grow Together** → Kami percaya bahwa kolaborasi adalah kunci pertumbuhan.
-- **Satu Visi, Banyak Eksekusi** → Tujuan bersama dengan cara eksekusi yang fleksibel sesuai kekuatan tim.
-- **Kolaborasi = Kekuatan** → Kekuatan sejati ada pada sinergi tim, bukan hanya kemampuan individu.
-- **Transparan & Jujur** → Semua ide, masalah, dan bug dibuka agar dapat diselesaikan dengan cepat.
-- **Belajar Tiap Proyek** → Setiap klien adalah kesempatan untuk meningkatkan keterampilan.
-- **Fun tapi Fokus** → Suasana kerja santai, namun tetap menghasilkan produk yang rapi, berfungsi, dan tepat waktu.
+Harga Terjangkau & Ramah Pemula — cocok untuk UMKM, komunitas, individu tanpa anggaran besar.
 
----
+Dedikasi & Komitmen Pribadi — founder/dev utama bertanggung jawab langsung terhadap proyek, bukan dioper ke banyak orang.
 
-## 5. Layanan (Our Services)
+📦 Paket & Scope Layanan
+🔹 Paket A — “Landing / Company Profile Basic”
 
-### Saat Ini:
+Harga: Rp 800.000 – Rp 1.500.000
 
-- 🌐 **Pembuatan Web Aplikasi**
-    
-    Company profile, landing page, custom web system.
-    
-- 🔧 **Maintenance & Optimization**
-    
-    Performa, keamanan, dan SEO untuk menjaga kualitas aplikasi.
-    
-- 💡 **Konsultasi Digital**
-    
-    Pendampingan strategi dan solusi web.
-    
+Cocok untuk: UMKM kecil, usaha rumahan, personal brand, komunitas kecil — yang hanya butuh “wajah online” sederhana & cepat.
 
-### Dalam Pengembangan:
+Ideal untuk usaha kecil/personal brand/komunitas yang baru mulai. Website satu halaman atau multi‑halaman sederhana untuk mempresentasikan profil, layanan, dan kontak secara profesional. Hemat biaya dan cepat jadi.
 
-- 🚀 **SaaS (Software as a Service)**
-- 🏢 **Vertical Software**
-- 🧩 **Advanced Project Templates**
+Layanan/Fitur	Detail/Catatan
+Desain & UI/UX sederhana	Halaman statis — home + about + layanan + kontak/info dasar
+Responsif (mobile + desktop)	Agar website bisa diakses baik lewat HP maupun PC
+Domain & hosting dasar (opsional)	Bisa bantu konfigurasi/saran hosting/domain
+Kontak & form kontak/link WA/email	Agar calon klien/pelanggan bisa langsung menghubungi melalui website
+Waktu pengerjaan cepat (1–2 minggu)	Ideal untuk usaha kecil yang butuh segera online
+Maintenance ringan (opsional)	Update konten ringan, perbaikan minor, support dasar (opsional)
 
----
+👉 Hasil yang diharapkan: website company profile/landing page minimalis — cocok sebagai “etalase digital”.
 
-## 6. Keunggulan (Why Us)
+🔹 Paket B — “Full Website / Standard Business”
 
-- ✅ Tim solid yang dibangun berdasarkan **trust & people-first**, bukan sekadar skill.
-- ✅ Fokus jangka panjang pada **produk & portofolio berkelanjutan**, bukan hanya project instan.
-- ✅ Pendekatan layanan yang **terbuka, transparan, dan mengutamakan kepuasan klien**.
+Harga: Rp 2.500.000 – Rp 6.000.000 (tergantung fitur dan kompleksitas)
 
----
+Cocok untuk: bisnis kecil–menengah, startup, komunitas yang butuh website lebih lengkap dengan beberapa halaman, informasi, dan fitur dasar.
 
-## 7. Tim Kami (Our Team)
+Layanan/Fitur	Detail/Catatan
+Desain UI/UX lebih kompleks & branding sesuai brand klien	Warna, logo, palet, font, layout sesuai identitas brand
+Struktur website lengkap	Home / About / Services / Portfolio / Blog (opsional) / Contact / Footer
+CMS atau panel admin (jika perlu)	Agar klien bisa update konten sendiri (artikel, portofolio, posting)
+SEO dasar & optimasi performa	Agar website bisa ditemukan di Google & loading cepat
+Integrasi media sosial/link/share/kontak	Mempermudah pengguna terhubung & berbagi
+Responsif & optimasi untuk mobile + desktop	Penting karena banyak pengguna mengakses lewat HP
+Dokumentasi & panduan sederhana	Agar klien paham cara mengelola konten jika menggunakan CMS/panel admin
+Dukungan purna‑jual/maintenance dasar (opsional)	Untuk update, backup, perbaikan bug jika ada
 
-👤 **Founder & CEO**
+👉 Hasil yang diharapkan: website “siap jalan” untuk bisnis profesional — bisa menjadi pusat informasi, promosi, atau identitas brand online.
 
-- **M. Ridho Haris Muzaki** (alias *Cemy / Osiic*)
-- Peran: Memimpin arah perusahaan, menutup gap peran dalam tim, membangun visi dan strategi.
+🔹 Paket C — “Custom Web / Sistem Khusus / Web + Fitur Lengkap”
 
-👤 **Co-Founder**
+Harga: Mulai Rp 5.000.000 ke atas (nego sesuai scope & kompleksitas)
 
-- **I Gede Shaka Pratama** (alias *Jukutpremium / Everezsky*)
-- **Kadek Ayu Dea Permatasar** (alias *YunZu*)
+Cocok untuk: klien yang butuh lebih dari website statis — misalnya sistem internal, aplikasi web, integrasi data, kebutuhan khusus, atau startup dengan fitur dinamis.
 
-👤 **Other Team**
+Layanan/Fitur	Detail/Catatan
+Full‑stack development (front‑end + back‑end)	Membuat website dinamis atau web app sesuai kebutuhan; bisa integrasi database, sistem user/login, manajemen data, dsb
+Desain & UI/UX kustom sesuai brand & fungsionalitas	UI/UX disesuaikan agar nyaman & sesuai kebutuhan sistem
+CMS/panel admin khusus/dashboard/backend	Agar klien bisa mengelola data, user, konten, dll secara mandiri
+Integrasi fitur tambahan	Misalnya: blog, manajemen user, sistem reservasi, e‑commerce sederhana, formulir — sesuai kebutuhan
+Optimasi performa, keamanan, responsif, mobile‑friendly	Penting untuk web kompleks agar stabil, cepat, aman
+Testing, QA, debug, dokumentasi, deployment, maintenance/support	Proses lengkap sampai web siap & bisa dipakai klien; dukungan purna‑jual jika diperlukan
+Layanan konsultasi & perencanaan awal	Diskusi kebutuhan, analisis target & solusi — bukan sekadar coding
 
----
+👉 Hasil yang diharapkan: website atau aplikasi web sesuai kebutuhan spesifik — bukan sekadar brosur online, tetapi sistem yang benar‑benar membantu operasional atau bisnis klien (misalnya sistem reservasi, manajemen user, data internal, dsb).
 
-## 8. Klien & Partner
+ℹ️ Catatan & Ketentuan Penting
 
-Saat ini Ngetikin belum memiliki daftar klien maupun partner resmi.
+Harga di atas belum termasuk biaya domain & hosting (kecuali disepakati).
 
-Namun kami terbuka untuk kolaborasi dengan individu, komunitas, maupun perusahaan yang ingin menjadi bagian dari perjalanan kami.
+Termasuk hingga 2 kali revisi minor (layout/teks).
 
----
+Deposit 50 % diperlukan sebelum memulai pengerjaan; pelunasan setelah website final & disetujui.
 
-## 9. Portofolio
+Durasi pengerjaan tergantung paket & kompleksitas; estimasi awal: 1–2 minggu (Paket A), 2–4 minggu (Paket B), nego sesuai scope (Paket C).
 
-📌 *Project pertama sedang dalam tahap pengembangan.*
+Hak cipta & aset desain ditembus ke klien setelah pembayaran penuh.
 
-Portofolio resmi akan segera tersedia sebagai bukti nyata hasil karya tim.
+Tambahan fitur/revisi besar/maintenance/update konten akan dikenakan biaya terpisah/add‑on.
 
----
+🔧 Add‑on & Layanan Tambahan
 
-## 10. Proses Kerja (Workflow)
+Maintenance & update berkala
 
-1. 📞 **Konsultasi Awal** – memahami kebutuhan dan tujuan klien.
-2. ✍️ **Ideasi & Perancangan** – menyusun konsep, arsitektur, dan desain.
-3. 💻 **Development** – mengimplementasikan solusi sesuai kebutuhan.
-4. 🧪 **Testing & Review** – memastikan kualitas, performa, dan keamanan.
-5. 🚀 **Delivery & Support** – meluncurkan aplikasi serta memberikan dukungan lanjutan.
+Backup & security check
 
----
+SEO lanjutan & optimasi performa
 
-## 11. Pencapaian & Target
+Integrasi tambahan: form custom, sistem booking, e‑commerce ringan, dsb (harga nego sesuai scope)
 
-- 🎉 **2025** – Berdirinya Ngetikin sebagai perusahaan rintisan digital.
-- 💡 **2026** – Mengembangkan portofolio klien pertama dan memperkuat tim inti.
-- 🚀 **2027** – Menjadi perusahaan dengan produk SaaS aktif dan portofolio yang diakui secara internasional.
+Konsultasi & pelatihan penggunaan CMS/panel admin
 
----
+👥 Target Klien / Segmen Pasar Ideal
 
-## 12. Kontak
+UMKM kecil – menengah
 
-📍 **Alamat:** Basis komunitas online melalui Discord
+Komunitas lokal/online
 
-🔗 **Discord:** https://dsc.gg/ngetikin
+Personal brand/usaha rumahan
 
-✉️ **Email:** [ngetikin.agency@gmail.com](mailto:ngetikin.agency@gmail.com)
+Bisnis baru tanpa kehadiran digital
 
-📱 **WhatsApp:** +62 851-1712-1912
+Klien yang membutuhkan website sederhana & hemat anggaran
 
-🌍 **Website:** [ngetikin.vercel.app](https://ngetikin.vercel.app/) | [linktr.ee/ngetikin](https://linktr.ee/ngetikin)
+🧑‍🤝‍🧑 Tim Inti (sekarang)
 
-📢 **Media Sosial:**
+M. Ridho Haris Muzaki — Leader
 
-- Instagram: [@ngetikin](https://www.instagram.com/ngetikin)
-- TikTok: [@ngetikin](https://www.tiktok.com/@ngetikin)
-- LinkedIn: [Ngetikin](https://www.linkedin.com/company/ngetikin)
+I Gede Shaka Pratama — Backend Dev
 
----
+Dea — UI/UX
 
-## 13. Closing
+Naufal Fadilah — Front‑end Dev
 
-✨ *Make Your App Come True*
+Catatan: semua proyek dikelola terutama oleh founder — tim lain adalah tambahan bila diperlukan.
 
-Ngetikin hadir untuk membantu mewujudkan ide digital menjadi aplikasi nyata.
+✅ Kenapa Memilih Ngetikin (Why Us)
 
-Bersama tim yang solid dan visi yang jelas, kami percaya bahwa setiap proyek adalah langkah menuju inovasi.
+Integritas & kejujuran di setiap proyek.
 
-🚀 **Mari ciptakan solusi, bangun inovasi, dan tumbuh bersama kami.**
+Fokus pada usaha kecil & pemula — layanan & harga disesuaikan.
+
+Komunikasi langsung dengan founder/dev — tanpa birokrasi.
+
+Fleksibel & custom — siap bantu sesuai kebutuhan klien.
+
+Dedikasi tinggi untuk hasil terbaik — meskipun kecil, tetap serius.
+
+📞 Kontak & Media / Cara Hubungi
+Jenis	Detail
+Alamat	Basis komunitas online melalui Discord
+Discord	dsc.gg/ngetikin
+
+Email	ngetikin.agency@gmail.com
+
+WhatsApp	+62 851‑1712‑1912
+Website	ngetikin.vercel.app
+ · linktr.ee/ngetikin
+
+LinkedIn	linkedin.com/company/ngetikin
+
+Instagram	@ngetikin
+
+TikTok	@ngetikin
+
+Dokumen ini memuat profil lengkap Ngetikin, visi, misi, nilai inti, paket layanan, tim, dan informasi kontak untuk keperluan website company profile.
