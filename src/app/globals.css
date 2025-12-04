@@ -30,7 +30,7 @@ body {
 
 /* Text selection */
 ::selection {
-  background: linear-gradient(120deg, rgba(0, 245, 212, 0.7), rgba(35, 201, 255, 0.8));
+  background: var(--foreground);
   color: #010b1c;
 }
 
