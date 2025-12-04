@@ -5,11 +5,14 @@
 - Static assets live in `public`; favicons already reside in `src/app/favicon.ico`.
 - Config roots sit at repo top: `next.config.ts`, `tsconfig.json`, `eslint.config.mjs`, and `postcss.config.mjs`.
 
-## Build, Test, and Development Commands
-- `npm run dev` — start the dev server with Turbopack on `http://localhost:3000`.
-- `npm run build` — production build using Turbopack (mirrors deploy behavior).
-- `npm start` — run the compiled app locally.
-- `npm run lint` — run ESLint with the Next.js config; fix warnings before sending PRs.
+## Build, Test, and Development Commands (Bun default)
+- `bun install` — install dependencies.
+- `bun run dev` — start the dev server with Turbopack on `http://localhost:3000`.
+- `bun run build` — production build (mirrors deploy behavior).
+- `bun run start` — run the compiled app locally.
+- `bun run lint` — run ESLint with the Next.js config; fix warnings before sending PRs.
+
+If using npm instead, equivalent scripts still exist: `npm run dev|build|start|lint`.
 
 ## Coding Style & Naming Conventions
 - TypeScript throughout; prefer explicit types on public exports and component props.
