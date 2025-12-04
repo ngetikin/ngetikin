@@ -61,7 +61,7 @@ export function HeroSection({ profile }: { profile: CompanyProfile }) {
             </div>
             <div className="rounded-xl border border-white/10 bg-white/5 p-4">
               <p className="text-xs uppercase text-cyan-200">Misi</p>
-              <ul className="mt-2 list-inside list-disc space-y-1 text-slate-200">
+              <ul className="mt-2 list-disc list-outside space-y-1 pl-5 text-slate-200 marker:text-cyan-300">
                 {profile.missions.slice(0, 3).map((misi) => (
                   <li key={misi}>{misi}</li>
                 ))}
