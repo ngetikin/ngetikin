@@ -28,14 +28,10 @@ body {
   overflow-x: hidden;
 }
 
-a {
-  color: inherit;
-}
-
 /* Text selection */
 ::selection {
-  background: linear-gradient(120deg, rgba(0, 245, 212, 0.4), rgba(35, 201, 255, 0.5));
-  color: #041025;
+  background: linear-gradient(120deg, rgba(0, 245, 212, 0.7), rgba(35, 201, 255, 0.8));
+  color: #010b1c;
 }
 
 /* Scrollbar styling (WebKit) */
