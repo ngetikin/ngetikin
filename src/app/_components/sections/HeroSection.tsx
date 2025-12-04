@@ -11,7 +11,7 @@ export function HeroSection({ profile }: { profile: CompanyProfile }) {
       <div className="relative flex flex-col gap-10">
         <div className="space-y-6">
           <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-[11px] uppercase tracking-[0.2em] text-cyan-200">
-            Digital Web Studio
+            Digital Web Agency
           </div>
           <h1 className="hero-title font-display text-4xl font-semibold leading-[1.05] text-white sm:text-5xl lg:text-6xl">
             {profile.name}
