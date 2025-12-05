@@ -65,7 +65,7 @@ export function HeaderBar() {
 
       {/* Mobile menu sheet */}
       <div
-        className={`md:hidden px-6 transition-[max-height,opacity] duration-200 ${open ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
+        className={`md:hidden px-6 transition-[max-height,opacity] duration-200 ${open ? "max-h-96 pb-5 opacity-100" : "max-h-0 opacity-0"
           } overflow-hidden`}
       >
         <div className="divide-y divide-white/10 rounded-2xl border border-white/10 bg-[#0b1424]/95 shadow-xl shadow-cyan-500/10 backdrop-blur">

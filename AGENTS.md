@@ -30,6 +30,7 @@ If using npm instead, equivalent scripts still exist: `npm run dev|build|start|l
 - Commit messages in this repo are short and imperative (e.g., “Add home hero copy”); keep them scoped to one change set.
 - For pull requests: describe intent, summarize key changes, link any issues, and include screenshots or recordings for UI updates.
 - Ensure `npm run lint` passes and builds succeed before requesting review.
+- Codex must create a git commit for every change it makes; do not leave modifications uncommitted.
 
 ## Security & Configuration Tips
 - Environment variables for future features should be loaded via Next.js conventions (`.env.local`, prefix client-safe vars with `NEXT_PUBLIC_`).
