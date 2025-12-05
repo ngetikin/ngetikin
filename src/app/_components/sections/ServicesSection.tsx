@@ -50,7 +50,7 @@ export function ServicesSection({
               </span>
             )}
 
-            <div className="flex relative gap-3 mt-auto text-sm">
+            <div className="flex justify-center items-center relative gap-3 mt-auto text-sm">
               <a
                 className="flex-1 py-2 px-4 font-semibold text-center bg-cyan-400 rounded-full transition-transform duration-200 hover:bg-cyan-300 hover:-translate-y-0.5 text-slate-900 hover:text-slate-900"
                 href="https://wa.me/6285117121912"
