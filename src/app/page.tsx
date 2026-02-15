@@ -49,9 +49,11 @@ export default function Home() {
             <p>{aboutPreview.description}</p>
           </div>
           <div className="bg-darkGray rounded-xl p-6 flex items-center justify-center">
-            <div className="bg-gray-700 border-2 border-dashed rounded-xl w-full h-64 flex items-center justify-center text-gray-400">
-              Gambar Komunitas
-            </div>
+            <img 
+              src="/gambar.jpeg" 
+              alt="Gambar Komunitas NGETIKIN" 
+              className="w-full h-64 object-cover rounded-xl"
+            />
           </div>
         </div>
       </Section>
