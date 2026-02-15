@@ -3,6 +3,8 @@ import Section from '@/components/Section';
 import Card from '@/components/Card';
 import { getCompanyData } from '@/lib/data';
 import { Metadata } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'NGETIKIN - Komunitas Web Development untuk Indonesia',
@@ -49,10 +51,13 @@ export default function Home() {
             <p>{aboutPreview.description}</p>
           </div>
           <div className="bg-darkGray rounded-xl p-6 flex items-center justify-center">
-            <img 
+            <Image 
               src="/gambar.jpeg" 
               alt="Gambar Komunitas NGETIKIN" 
+              width={600}
+              height={256}
               className="w-full h-64 object-cover rounded-xl"
+              priority
             />
           </div>
         </div>
@@ -96,7 +101,7 @@ export default function Home() {
         <div className="text-center max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Siap Mulai Perjalananmu?</h2>
           <p className="text-lg mb-8">Bergabunglah dengan komunitas yang percaya bahwa skill dibangun pelan-pelan melalui konsistensi.</p>
-          <a href="/kontak" className="btn-primary inline-block">Gabung Sekarang</a>
+          <Link href="/kontak" className="btn-primary inline-block">Gabung Sekarang</Link>
         </div>
       </Section>
     </main>

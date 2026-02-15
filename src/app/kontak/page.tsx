@@ -1,6 +1,7 @@
 import Section from '@/components/Section';
 import { getCompanyData } from '@/lib/data';
 import { Metadata } from 'next';
+import Image from 'next/image';
 
 export const metadata: Metadata = {
   title: 'Hubungi Kami - NGETIKIN Komunitas Web Development',
@@ -167,10 +168,13 @@ export default function ContactPage() {
             
             <div className="mt-12">
               <h3 className="text-2xl font-semibold mb-4">Lokasi Kami</h3>
-              <img 
+              <Image 
                 src="/gambar.jpeg" 
                 alt="Lokasi Komunitas NGETIKIN" 
+                width={800}
+                height={256}
                 className="w-full h-64 object-cover rounded-xl"
+                priority
               />
             </div>
           </div>
