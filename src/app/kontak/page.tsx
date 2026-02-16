@@ -168,14 +168,9 @@ export default function ContactPage() {
             
             <div className="mt-12">
               <h3 className="text-2xl font-semibold mb-4">Lokasi Kami</h3>
-              <Image 
-                src="/gambar.jpeg" 
-                alt="Lokasi Komunitas NGETIKIN" 
-                width={800}
-                height={256}
-                className="w-full h-64 object-cover rounded-xl"
-                priority
-              />
+              <div className="bg-darkGray border-2 border-dashed rounded-xl w-full h-64 flex items-center justify-center text-softGray">
+                Lokasi Kami
+              </div>
             </div>
           </div>
         </div>
