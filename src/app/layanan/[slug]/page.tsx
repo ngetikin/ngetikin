@@ -19,11 +19,11 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
   }
   
   return {
-    title: `${service.title} - NGETIKIN`,
+    title: `${service.title} - NGETIKIN Web Dev Community`,
     description: service.description,
     keywords: [service.title, 'layanan ngetikin', 'web development', 'programming course', 'coding mentor'],
     openGraph: {
-      title: `${service.title} - NGETIKIN`,
+      title: `${service.title} - NGETIKIN Web Dev Community`,
       description: service.description,
       url: `https://ngetikin.vercel.app/layanan/${params.slug}`,
       siteName: 'NGETIKIN',
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${service.title} - NGETIKIN`,
+      title: `${service.title} - NGETIKIN Web Dev Community`,
       description: service.description,
     },
     alternates: {

@@ -1,62 +1,62 @@
 <div align="center">
-  <img src="public/ngetikin-logo.svg" alt="Ngetikin logo" width="96" height="96" />
-  <h1>Ngetikin</h1>
-  <p><strong>Jasa Pembuatan Website Profesional & Terjangkau</strong><br/>Make Your App Come True</p>
-  <a href="https://ngetikin.vercel.app">Live site</a> · <a href="https://wa.me/6285117121912">WhatsApp</a> · <a href="mailto:ngetikin.agency@gmail.com">Email</a>
+  <img src="public/logo.jpg" alt="NGETIKIN logo" width="96" height="96" />
+  <h1>NGETIKIN</h1>
+  <p><strong>Komunitas Web Development untuk Indonesia</strong><br/>Ilmu itu gratis, tapi harus dibayar dengan konsistensi.</p>
+  <a href="https://ngetikin.vercel.app">Live site</a> · <a href="https://wa.me/6285117121912">WhatsApp</a> · <a href="mailto:ngetikin.community@gmail.com">Email</a>
 </div>
 
 ---
 
-## 🚀 Apa itu Ngetikin?
+## 🚀 Apa itu NGETIKIN?
 
-Ngetikin adalah studio digital yang membangun landing page, company profile, dan web custom untuk UMKM, komunitas, dan brand baru. Kami mengusung kolaborasi transparan, harga ramah, dan eksekusi rapi sehingga ide kamu cepat online tanpa ribet.
+NGETIKIN adalah komunitas web development berbasis Discord untuk Indonesia dengan sistem pembelajaran terstruktur, berbasis komitmen, dan keaktifan. Mengusung tagline "Ilmu itu gratis, tapi harus dibayar dengan konsistensi.", NGETIKIN berfokus pada pemula 0, namun tetap terbuka untuk semua level. Kami percaya bahwa hambatan terbesar belajar coding bukan kurangnya materi, melainkan kurangnya konsistensi, disiplin, dan lingkungan belajar yang sehat.
 
 ## 🎯 Visi & Misi
-- **Visi:** Memberdayakan usaha kecil & komunitas agar punya kehadiran digital profesional, terjangkau, dan transparan.
+- **Visi:** Menjadi komunitas web development paling berdampak di Indonesia dalam membentuk developer yang konsisten, disiplin, dan siap bertumbuh jangka panjang.
 - **Misi:**
-  1) Website company profile/landing/sistem sederhana dengan harga jelas.
-  2) Integritas & kualitas nyata, bukan janji manis.
-  3) Komunikasi langsung dengan founder/dev, fleksibel sesuai kebutuhan.
-  4) Menguatkan brand & pertumbuhan usaha klien.
-  5) Terbuka untuk permintaan custom.
+  1) Menyediakan sistem pembelajaran web development yang terstruktur dan aplikatif.
+  2) Membangun budaya belajar berbasis konsistensi dan keaktifan.
+  3) Menjadi jembatan antara pembelajar dan dunia profesional secara realistis.
+  4) Mengedukasi tanpa menjual mimpi instan atau overpromise karier.
 
-## 🧭 Target Klien
-UMKM kecil–menengah · komunitas lokal/online · personal brand/usaha rumahan · bisnis baru tanpa kehadiran digital · klien yang butuh website hemat anggaran.
+## 🧭 Siapa yang Cocok Bergabung?
+Pemula dalam coding · developer yang ingin meningkatkan konsistensi · siapa pun yang percaya bahwa skill dibangun pelan-pelan melalui konsistensi · mereka yang mencari lingkungan belajar yang sehat dan mendukung.
 
-## 📦 Paket Layanan
-- **Paket A — Landing / Company Profile Basic** (Rp 800.000 – 1.500.000)  
-  Website 1–few pages, responsif, opsi domain/hosting, kontak WA/email, 1–2 minggu.
-- **Paket B — Full Website / Standard Business** (Rp 2.500.000 – 6.000.000)  
-  Struktur lengkap (Home/About/Services/Portfolio/Blog opsional/Contact), UI sesuai brand, SEO dasar, CMS bila perlu.
-- **Paket C — Custom Web / Sistem Khusus** (mulai Rp 5.000.000)  
-  Full-stack, fitur dinamis (booking, user, e-commerce ringan), dashboard/admin, performa & keamanan dioptimalkan.
+## 📚 Program & Layanan
+- **Program Fullstack Web Development:** Pembelajaran terstruktur dari dasar hingga mahir.
+- **Weekly Challenge & Task:** Tantangan mingguan untuk meningkatkan keterampilan dan membangun portofolio.
+- **Mentoring 1-on-1:** Sesi mentoring pribadi untuk membantu perkembangan individu.
+- **Event & Workshop Intensif:** Workshop berkala untuk membahas topik spesifik.
+- **Job & Project Board:** Platform eksklusif untuk anggota aktif yang mencari peluang kerja.
 
-## 💡 Nilai & Kenapa Memilih Ngetikin
-- 🤝 Integritas & kejujuran di setiap proyek.
-- 🎯 Fokus UMKM & pemula, harga disesuaikan.
-- 📞 Komunikasi langsung dengan founder/dev, tanpa birokrasi.
-- 🧩 Fleksibel & custom sesuai kebutuhan.
-- 🔥 Dedikasi tinggi untuk hasil terbaik.
+## 💡 Nilai Inti & Kenapa Memilih NGETIKIN
+- 💪 **Komitmen Lebih dari Bakat:** Konsistensi lebih penting daripada bakat alami.
+- 🤝 **Lingkungan Belajar Serius:** Santai dalam komunikasi, disiplin dalam proses belajar.
+- 📚 **Belajar Melalui Praktik:** Praktik nyata lebih utama daripada teori semata.
+- 👥 **Komunitas Di Atas Ego:** Tumbuh bersama, bukan pamer kemampuan.
+- 🤲 **Tanpa Janji Palsu:** Tidak menjual narasi cepat jago atau karier instan.
 
 ## 🔗 Kontak
 - WhatsApp: **+62 851-1712-1912** — https://wa.me/6285117121912
-- Email: **ngetikin.agency@gmail.com** — mailto:ngetikin.agency@gmail.com
+- Email: **ngetikin.community@gmail.com** — mailto:ngetikin.community@gmail.com
 - Discord: **dsc.gg/ngetikin** — https://dsc.gg/ngetikin
 - Website: **[ngetikin.vercel.app](https://ngetikin.vercel.app)**
-- LinkedIn: **linkedin.com/company/ngetikin**
 - Instagram: **@ngetikin**
 - TikTok: **@ngetikin**
+- Twitter: **@ngetikin**
+- Threads: **@ngetikin**
+- YouTube: **@ngetikinid**
 
-## 🛠️ Stack Singkat (repo ini)
+## 🛠️ Teknologi & Stack (repo ini)
 - Next.js 16, React 19
-- Tailwind CSS v4
-- Motion/Framer Motion + GSAP untuk animasi
+- Tailwind CSS v3
 - TypeScript
+- GSAP untuk animasi
 
-## 🤲 Kolaborasi
-Kami terbuka untuk konsultasi, kerja sama, atau permintaan custom.  
-👉 Langsung chat di WhatsApp atau email untuk mulai diskusi.
+## 🤲 Bergabung dengan Kami
+Kami selalu terbuka untuk anggota baru yang serius belajar dan berkomitmen untuk berkembang.
+👉 Bergabunglah dengan komunitas yang percaya bahwa skill dibangun pelan-pelan melalui konsistensi.
 
 ---
 
-> “Code Together, Grow Together.” — Kami percaya kolaborasi transparan menghasilkan produk yang siap jalan dan mudah dirawat.
+> “Ilmu itu gratis, tapi harus dibayar dengan konsistensi.” — Kami percaya bahwa konsistensi selalu lebih penting daripada bakat alami.

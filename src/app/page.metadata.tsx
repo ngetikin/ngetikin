@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 
 export const homeMetadata: Metadata = {
-  title: 'NGETIKIN - Komunitas Web Development Indonesia',
+  title: 'NGETIKIN - Web Dev Community',
   description: 'Komunitas web development berbasis Discord untuk mereka yang benar-benar mau belajar secara konsisten, disiplin, dan realistis.',
   keywords: ['web development', 'komunitas programming', 'belajar coding', 'discord community', 'konsistensi belajar'],
   openGraph: {
-    title: 'NGETIKIN - Komunitas Web Development Indonesia',
+    title: 'NGETIKIN - Web Dev Community',
     description: 'Komunitas web development berbasis Discord untuk mereka yang benar-benar mau belajar secara konsisten, disiplin, dan realistis.',
     url: 'https://ngetikin.vercel.app',
     siteName: 'NGETIKIN',
@@ -21,7 +21,7 @@ export const homeMetadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'NGETIKIN - Komunitas Web Development Indonesia',
+    title: 'NGETIKIN - Web Dev Community',
     description: 'Komunitas web development berbasis Discord untuk mereka yang benar-benar mau belajar secara konsisten, disiplin, dan realistis.',
   },
   alternates: {

@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Hubungi Kami - NGETIKIN Komunitas Web Development",
+  title: "Hubungi Kami - NGETIKIN Web Dev Community",
   description:
     "Hubungi NGETIKIN komunitas web development untuk informasi lebih lanjut tentang layanan, program, atau pertanyaan seputar pembelajaran pengembangan web.",
   keywords: [
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     "discord ngetikin",
   ],
   openGraph: {
-    title: "Hubungi Kami - NGETIKIN Komunitas Web Development",
+    title: "Hubungi Kami - NGETIKIN Web Dev Community",
     description:
       "Hubungi NGETIKIN komunitas web development untuk informasi lebih lanjut tentang layanan dan program kami.",
     url: "https://ngetikin.vercel.app/kontak",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hubungi Kami - NGETIKIN Komunitas Web Development",
+    title: "Hubungi Kami - NGETIKIN Web Dev Community",
     description:
       "Hubungi NGETIKIN komunitas web development untuk informasi lebih lanjut tentang layanan dan program kami.",
   },

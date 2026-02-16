@@ -5,11 +5,11 @@ import Link from 'next/link';
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: 'Profil NGETIKIN - Komunitas Web Development untuk Indonesia',
+    title: 'Profil NGETIKIN - Web Dev Community',
     description: 'Pelajari lebih lanjut tentang NGETIKIN, komunitas web development berbasis Discord untuk Indonesia dengan sistem pembelajaran terstruktur, berbasis komitmen, dan keaktifan.',
     keywords: ['tentang ngetikin', 'profil komunitas', 'visi misi ngetikin', 'nilai inti', 'sejarah komunitas'],
     openGraph: {
-      title: 'Profil NGETIKIN - Komunitas Web Development untuk Indonesia',
+      title: 'Profil NGETIKIN - Web Dev Community',
       description: 'Pelajari lebih lanjut tentang NGETIKIN, komunitas web development berbasis Discord untuk Indonesia.',
       url: 'https://ngetikin.vercel.app/profil',
       siteName: 'NGETIKIN',
@@ -26,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Profil NGETIKIN - Komunitas Web Development untuk Indonesia',
+      title: 'Profil NGETIKIN - Web Dev Community',
       description: 'Pelajari lebih lanjut tentang NGETIKIN, komunitas web development berbasis Discord untuk Indonesia.',
     },
     alternates: {

@@ -4,11 +4,11 @@ import { getCompanyData } from '@/lib/data';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Layanan Kami - NGETIKIN Komunitas Web Development',
+  title: 'Layanan Kami - NGETIKIN Web Dev Community',
   description: 'Temukan berbagai layanan yang disediakan oleh NGETIKIN untuk membantu perkembangan skill web development Anda, termasuk program fullstack, mentoring, dan workshop.',
   keywords: ['layanan ngetikin', 'program fullstack', 'mentoring coding', 'workshop web development', 'discord community'],
   openGraph: {
-    title: 'Layanan Kami - NGETIKIN Komunitas Web Development',
+    title: 'Layanan Kami - NGETIKIN Web Dev Community',
     description: 'Temukan berbagai layanan yang disediakan oleh NGETIKIN untuk membantu perkembangan skill web development Anda.',
     url: 'https://ngetikin.vercel.app/layanan',
     siteName: 'NGETIKIN',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Layanan Kami - NGETIKIN Komunitas Web Development',
+    title: 'Layanan Kami - NGETIKIN Web Dev Community',
     description: 'Temukan berbagai layanan yang disediakan oleh NGETIKIN untuk membantu perkembangan skill web development Anda.',
   },
   alternates: {
