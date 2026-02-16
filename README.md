@@ -42,7 +42,7 @@ UMKM kecil–menengah · komunitas lokal/online · personal brand/usaha rumahan 
 - WhatsApp: **+62 851-1712-1912** — https://wa.me/6285117121912
 - Email: **ngetikin.agency@gmail.com** — mailto:ngetikin.agency@gmail.com
 - Discord: **dsc.gg/ngetikin** — https://dsc.gg/ngetikin
-- Website: **ngetikin.vercel.app**
+- Website: **[ngetikin.vercel.app](https://ngetikin.vercel.app)**
 - LinkedIn: **linkedin.com/company/ngetikin**
 - Instagram: **@ngetikin**
 - TikTok: **@ngetikin**

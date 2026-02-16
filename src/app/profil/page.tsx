@@ -11,7 +11,7 @@ export async function generateMetadata(): Promise<Metadata> {
     openGraph: {
       title: 'Profil NGETIKIN - Komunitas Web Development untuk Indonesia',
       description: 'Pelajari lebih lanjut tentang NGETIKIN, komunitas web development berbasis Discord untuk Indonesia.',
-      url: 'https://ngetikin.com/profil',
+      url: 'https://ngetikin.vercel.app/profil',
       siteName: 'NGETIKIN',
       images: [
         {
@@ -30,7 +30,7 @@ export async function generateMetadata(): Promise<Metadata> {
       description: 'Pelajari lebih lanjut tentang NGETIKIN, komunitas web development berbasis Discord untuk Indonesia.',
     },
     alternates: {
-      canonical: 'https://ngetikin.com/profil',
+      canonical: 'https://ngetikin.vercel.app/profil',
     }
   };
 }

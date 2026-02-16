@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
     openGraph: {
       title: `${service.title} - NGETIKIN`,
       description: service.description,
-      url: `https://ngetikin.com/layanan/${params.slug}`,
+      url: `https://ngetikin.vercel.app/layanan/${params.slug}`,
       siteName: 'NGETIKIN',
       images: [
         {
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
       description: service.description,
     },
     alternates: {
-      canonical: `https://ngetikin.com/layanan/${params.slug}`,
+      canonical: `https://ngetikin.vercel.app/layanan/${params.slug}`,
     }
   };
 }

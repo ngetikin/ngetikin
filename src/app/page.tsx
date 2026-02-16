@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'NGETIKIN - Komunitas Web Development untuk Indonesia',
     description: 'Komunitas web development berbasis Discord untuk Indonesia dengan sistem pembelajaran terstruktur, berbasis komitmen, dan keaktifan.',
-    url: 'https://ngetikin.com',
+    url: 'https://ngetikin.vercel.app',
     siteName: 'NGETIKIN',
     images: [
       {
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     description: 'Komunitas web development berbasis Discord untuk Indonesia dengan sistem pembelajaran terstruktur.',
   },
   alternates: {
-    canonical: 'https://ngetikin.com',
+    canonical: 'https://ngetikin.vercel.app',
   }
 };
 
