@@ -109,12 +109,21 @@ export default function ContactPage() {
             
             <div className="mt-12">
               <h3 className="text-2xl font-semibold mb-4">Ikuti Kami</h3>
-              <div className="flex space-x-4">
+              <div className="flex flex-wrap gap-4">
                 <a href={`https://instagram.com/${contact.instagram}`} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
                   Instagram
                 </a>
-                <a href={contact.youtube} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
+                <a href={`https://youtube.com/${contact.youtube}`} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
                   YouTube
+                </a>
+                <a href={`https://tiktok.com/${contact.tiktok}`} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
+                  TikTok
+                </a>
+                <a href={`https://twitter.com/${contact.twitter}`} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
+                  Twitter
+                </a>
+                <a href={`https://threads.net/${contact.threads}`} target="_blank" rel="noopener noreferrer" className="bg-darkGray p-3 rounded-lg hover:bg-cyan hover:text-darkNavy transition-colors">
+                  Threads
                 </a>
               </div>
             </div>
