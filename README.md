@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="1000" height="200" alt="BANNER readme md" src="https://github.com/user-attachments/assets/02d0831c-75e1-418b-8115-4e7e2bdd9634" />
+<img 
+  width="1000" 
+  height="200" 
+  alt="Ngetikin Banner" 
+  src="https://github.com/user-attachments/assets/02d0831c-75e1-418b-8115-4e7e2bdd9634" 
+/>
 
 # Ngetikin - Web Dev Community
 
@@ -9,18 +14,14 @@ _Ilmu itu gratis, tapi harus dibayar dengan konsistensi._
 
 <br/>
 
-<!-- ROW 1 -->
+<!-- MAIN LINKS -->
 <p>
   <a href="https://ngetikin.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Site-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/6285117121912" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <a href="mailto:ngetikin.community@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/ngetikin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://dsc.gg/ngetikin" target="_blank">
@@ -30,9 +31,13 @@ _Ilmu itu gratis, tapi harus dibayar dengan konsistensi._
   <a href="https://linktr.ee/ngetikin" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" />
   </a>
+
+  <a href="https://wa.me/6285117121912" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
-<!-- ROW 2 -->
+<!-- SOCIAL MEDIA -->
 <p>
   <a href="https://instagram.com/ngetikin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -43,7 +48,7 @@ _Ilmu itu gratis, tapi harus dibayar dengan konsistensi._
   </a>
 
   <a href="https://twitter.com/ngetikin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="https://threads.net/@ngetikin" target="_blank">
@@ -52,6 +57,10 @@ _Ilmu itu gratis, tapi harus dibayar dengan konsistensi._
 
   <a href="https://youtube.com/@ngetikin" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="mailto:ngetikin.community@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
